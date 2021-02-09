@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=jonpulsifer&show_icons=true&theme=tokyonight&count_private=true)
+
+![lol-lines-of-code](https://github-readme-stats.vercel.app/api?username=jonpulsifer&show_icons=true&theme=tokyonight&count_private=true)
+
+:star: does A++ mean 10x engineer too? :rainbow:
