@@ -1,20 +1,11 @@
-<!--
-### Hi there 👋
+## :wave: heya, i'm @jonpulsifer
 
-**jonpulsifer/jonpulsifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![lol-lines-of-code](https://github-readme-stats.vercel.app/api?username=jonpulsifer&show_icons=true&theme=tokyonight&count_private=true)
-
-:star: does A++ mean 10x engineer too? :rainbow:
+- 🔭 I’m currently working on a sabbatical
+- 🌱 I’m currently learning how to be a cyber farmer 🚜💨
+- 👯 I’m looking to collaborate on cloud native community building
+- 🕵️ I’m looking for help with governance and engineering leadership
+- 💬 Ask me about whatever you want, i won't bite 🌈
+- 📫 How to reach me: jonathan [at] pulsifer [dot] ca
+- 😄 Pronouns: he/him/his 👨‍🦲
+- :godmode: Other arbitrary labels: SIGINT cyber sailor, type 6 cyber virgo, emacs neophyte
+- ⚡ Fun fact: I play the accordion 🎵
