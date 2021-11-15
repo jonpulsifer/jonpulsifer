@@ -1,6 +1,6 @@
 ## :wave: heya, i'm @jonpulsifer
 
-- 🔭 I’m currently working on a sabbatical
+- 🔭 I’m currently working on Cloud Security @ MoonPay
 - 🌱 I’m currently learning how to be a cyber farmer 🚜💨
 - 👯 I’m looking to collaborate on cloud native community building
 - 🕵️ I’m looking for help with governance and engineering leadership
