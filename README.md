@@ -10,4 +10,4 @@ find me on the internet :trollface:
 
 omg a view counter:
 
-[![](https://northamerica-northeast1-homelab-ng.cloudfunctions.net/view-counter?label=@jonpulsifer)]()
+[![](https://northamerica-northeast1-homelab-ng.cloudfunctions.net/view-counter?label=@jonpulsifer)](#)
